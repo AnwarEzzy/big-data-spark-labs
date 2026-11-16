@@ -1,0 +1,6 @@
+artifacts/
+scripts/
+data_tp2/
+out_tp2/
+__pycache__/
+.ipynb_checkpoints/
